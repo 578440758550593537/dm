@@ -84,4 +84,4 @@ const Discord = require("discord.js");
 
 // login token                          
 });
-bot.login("Njc4NjIyNDQ4MjMyNDMxNjI4.XoLxrA.PHdq3UWskYTqodTWC-miwcZyQ4M");
+bot.login("");
